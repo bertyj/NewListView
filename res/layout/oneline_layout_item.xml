@@ -1,0 +1,9 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    
+  <include 
+      layout="@layout/basic_layout_item"
+      android:id="@+id/oneline_item"/>
+     
+</LinearLayout>
